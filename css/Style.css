@@ -59,6 +59,23 @@ h3{
     font-family: var(--Abel);
     font-size: 1.3rem;
 }
+.button {
+    border-radius: 114px;
+    /* padding-top: 13px; */
+    margin-top: 16px;
+    margin-right: -89px;
+    /* margin-left: 107px; */
+    padding: 5px;
+    color: #ffffff;
+    background-color: #000;
+    /* font: -webkit-control; */
+    cursor: pointer;
+    overflow: hidden;
+}
+.button:hover{
+    background-color: #9CC4CF;
+    color: #0F0F0F;
+}
 
 button.btn{
     border: none;
